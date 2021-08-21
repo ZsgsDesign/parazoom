@@ -1,0 +1,23 @@
+{
+  "name": "parazoom",
+  "version": "1.0.0",
+  "description": "A jQuery plugin that adds cool mouse hover features on images inspired by olivier3lanc/Parazoom.",
+  "main": null,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZsgsDesign/parazoom.git"
+  },
+  "keywords": [
+    "parazoom",
+    "jquery"
+  ],
+  "author": "olivier3lanc, ZsgsDesign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZsgsDesign/parazoom/issues"
+  },
+  "homepage": "https://github.com/ZsgsDesign/parazoom#readme"
+}
